@@ -1,1 +1,1 @@
-### This is my Node Project for a notepad application. I basically created this project just to demostrate the functionallity of nado JS on the server-side.
+### This is my Node Project for a notepad application. I basically created this project just to demonstrate the functionallity of nade JS on the server-side.
