@@ -1,0 +1,23 @@
+[
+  {
+    id: 1,
+    name: 'Macbook',
+    title: 'Apple',
+    color: 'silver',
+    price: '$1500'
+  },
+  {
+    id: 2,
+    name: 'Inspiron 7000',
+    title: 'Dell',
+    color: 'Blue',
+    price: '$1200'
+  },
+  {
+    id: 3,
+    name: 'Yoga Flip 360',
+    title: 'HP',
+    color: 'Black',
+    price: '$1100'
+  }
+]

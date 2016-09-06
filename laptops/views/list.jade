@@ -1,0 +1,26 @@
+extend layout
+
+block content
+  h1 Your laptops
+  p Here is a list of your laptops.
+  table.table
+    thead
+      tr
+        th Id
+        th Name
+        th Title
+        th Color
+        th Price
+    tbody
+      if !laptops.length
+        tr
+          td(colspan=5) You should add a laptop
+      else
+        each laptop in laptops
+          tr
+            td #{laptop.id}
+            td
+              a(href="/laptops/#{laptop.id}") #{laptop.name}
+            td #{laptop.title}
+            td #{laptop.color}
+            td #{laptop.price}

@@ -1,0 +1,55 @@
+/*body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+*/
+body
+{
+font-family: Sofia,Comic Sans MS,sans-serif,Times New Roman,serif;
+/*background-image: url("image/back.png"), url("image/caution.gif");*/
+background-size: cover;
+background-color:  #BCC6CC;
+}
+
+caption { 
+    display: table-caption;
+    text-align: center;
+}
+	table {
+    display center: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: gray;
+    border: 5px solid gray;
+    overflow: auto;
+    display: center;
+  }
+
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+
+td, th {
+    display: table-cell;
+  vertical-align: inherit;
+  text-align: inherit; 
+   padding: 5px;
+    text-align: center;
+}
+th {
+    background-color: #786D5F;
+    color: white;
+}
+
+caption {
+    display: table-caption;
+    text-align: -webkit-center
+}
+
+       

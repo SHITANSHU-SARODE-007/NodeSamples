@@ -1,0 +1,1 @@
+### This is my Node Project for a notepad application. I basically created this project just to demostrate the functionallity of nado JS on the server-side.
